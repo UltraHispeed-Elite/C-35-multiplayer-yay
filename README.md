@@ -1,2 +1,2 @@
-# multiplayer-yay
-sync
+# asynchronousBallMovement
+Boiler plate for ball moving aysnchronously
